@@ -1,5 +1,5 @@
 // Define the package for the class (optional, helps organize code)
-package VARIALBESANDDATATYPES;
+package VARIALBES_AND_DATATYPES;
 
 // Declare the class named 'VariablesAndDatatypes'
 public class VariablesAndDatatypes {

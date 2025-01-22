@@ -1,5 +1,5 @@
 // Define the package for the class (optional, helps organize code)
-package TYPECONVERSION;
+package TYPE_CONVERSION;
 
 // Declare the class named 'ImplicitConversion'
 public class ImplicitConversion {
