@@ -1,5 +1,5 @@
 // Define the package for the class (optional, helps organize code)
-package INTRODUCTIONTOJAVA;
+package INTRODUCTION_TO_JAVA;
 
 public class Printing {
 
